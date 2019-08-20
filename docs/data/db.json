@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "name": "tv-shows",
+      "display_name": "shows",
+      "description": "shows",
+      "id": 1
+    },
+    {
+      "name": "Movies",
+      "display_name": "movie",
+      "description": "Longer video",
+      "id": 2
+    },
+    {
+      "name": "Audio",
+      "display_name": "audio",
+      "description": "Podcasts and music",
+      "id": 3
+    },
+    {
+      "name": "sam",
+      "display_name": "samuel",
+      "description": "blonde",
+      "id": 4
+    },
+    {
+      "name": "book",
+      "display_name": "paperback",
+      "description": "paper",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "category": "tv-shows",
+      "name": "elementary",
+      "display_name": "elementary",
+      "description": "sherlock holmes",
+      "id": 1
+    },
+    {
+      "category": "Movies",
+      "name": "Highlander",
+      "display_name": "highlander",
+      "description": "Immortal kilt man",
+      "id": 2
+    },
+    {
+      "category": "Audio",
+      "name": "Logic",
+      "display_name": "logic",
+      "description": "Rapper",
+      "id": 3
+    }
+  ]
+}
